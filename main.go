@@ -10,7 +10,8 @@ const (
 )
 
 func main() {
-	fmt.Println("Halo tomas")
+	fmt.Println("Halo babehhh")
+	fmt.Println("Halo makkk")
 	fmt.Println("Halo jon")
 	fmt.Println("Dono")
 }
