@@ -1,7 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+const (
+	pi = 3.14
+	g  = 10
+)
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("Halo tomas")
+	fmt.Println("Halo jon")
 }
